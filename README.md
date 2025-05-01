@@ -1,4 +1,4 @@
-# # Task5-Decision Trees and Random Forests
+# Task5-Decision Trees and Random Forests
 # Heart Disease Prediction with Decision Trees and Random Forests
 
 This project was completed as part of the AI & ML Internship Task 5. The goal is to build and evaluate machine learning models, specifically Decision Trees and Random Forests, to predict heart disease using a preprocessed dataset.
